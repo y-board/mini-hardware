@@ -377,7 +377,7 @@
 			(at 3.238262 2.499998 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "52875616-4de3-415b-a792-67855ee5b5f4")
+			(uuid "98b405c4-c7c6-4d7a-8963-3b83b696b90a")
 			(effects
 				(font
 					(size 1 1)
@@ -388,7 +388,7 @@
 		(property "Value" "QBL8RGB60D0-2897"
 			(at 3.2385 3.96 0)
 			(layer "F.Fab")
-			(uuid "f9f3b037-0dda-4609-97b8-08b57c905c69")
+			(uuid "d3e4b05d-dab2-4f43-ac10-c80934df6a8a")
 			(effects
 				(font
 					(size 1 1)
@@ -401,7 +401,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "277b5afb-3012-4545-ac53-7feefe9d84c2")
+			(uuid "22c638cd-04a1-4156-94da-2e8f5d0fd307")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -414,7 +414,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "805572a4-ab50-40cf-88e3-60f4d8379beb")
+			(uuid "63605973-e7b2-419c-b76a-73537a0a1301")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -962,7 +962,7 @@
 		(layer "F.Cu")
 		(uuid "546852b1-e634-4629-aa32-ec1a567715e1")
 		(at 183.8 95.6)
-		(property "Reference" "LS1"
+		(property "Reference" "Buzzer"
 			(at 0 2.6 0)
 			(layer "F.SilkS")
 			(uuid "61f4e13f-8cc8-4b9c-8b08-78c219ae89b6")
@@ -1474,7 +1474,7 @@
 		(layer "F.Cu")
 		(uuid "9504b11c-72a9-400f-8b5e-95f19ccaf325")
 		(at 183.8 115.992538 90)
-		(property "Reference" "BT1"
+		(property "Reference" "Battery Holder"
 			(at 2.992538 0 0)
 			(layer "F.SilkS")
 			(uuid "608fc897-bf38-46a5-8bfc-7792a74b5747")
@@ -1488,6 +1488,7 @@
 		(property "Value" "Battery Holder"
 			(at 1.445 9.365 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "c2d5e482-a887-40a6-8870-7861686795f7")
 			(effects
 				(font
@@ -1791,7 +1792,7 @@
 		(layer "F.Cu")
 		(uuid "b183f7d2-b757-4ffa-98d7-183624eafc36")
 		(at 203.1 67.7)
-		(property "Reference" "SW2"
+		(property "Reference" "SW"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "7ee19f8c-2557-403e-a30c-9d1d7027af1c")
@@ -8464,6 +8465,19 @@
 		(at 179.7 120.1 0)
 		(layer "F.SilkS")
 		(uuid "cffdfe47-dd3b-41ba-82f6-724d3301b106")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.1524)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "LED"
+		(at 163.4 66.2 0)
+		(layer "F.SilkS")
+		(uuid "d58af42a-425f-4941-8976-4bc5e06ae194")
 		(effects
 			(font
 				(size 0.8128 0.8128)
