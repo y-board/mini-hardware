@@ -1,0 +1,114 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+%TF.CreationDate,2025-09-23T17:00:51-06:00*%
+%TF.ProjectId,Y-Board-mini,592d426f-6172-4642-9d6d-696e692e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L3,Inr*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-09-23 17:00:51*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRotRect*
+0 Rectangle, with rotation*
+0 The origin of the aperture is its center*
+0 $1 length*
+0 $2 width*
+0 $3 Rotation angle, in degrees counterclockwise*
+0 Add horizontal line*
+21,1,$1,$2,0,0,$3*%
+G04 Aperture macros list end*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,1.100000X1.100000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11C,1.100000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD12C,2.000000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD13R,2.000000X2.000000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD14RotRect,1.500000X1.500000X237.500000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD15C,1.500000*%
+%TD*%
+%TA.AperFunction,ViaPad*%
+%ADD16C,0.600000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.N,+3.3V*%
+%TO.C,D1*%
+X166500000Y-66500000D03*
+D11*
+%TO.N,Net-(D1-BK)*%
+X165230000Y-66500000D03*
+%TO.N,Net-(D1-GK)*%
+X163960000Y-66500000D03*
+%TO.N,Net-(D1-RK)*%
+X162690000Y-66500000D03*
+%TD*%
+D12*
+%TO.N,GND*%
+%TO.C,SW2*%
+X205750000Y-67750000D03*
+X199250000Y-67750000D03*
+%TO.N,Net-(U1-PA3)*%
+X205750000Y-63250000D03*
+D13*
+X199250000Y-63250000D03*
+%TD*%
+D12*
+%TO.N,+3.3V*%
+%TO.C,BT1*%
+X184020000Y-106520000D03*
+%TO.N,GND*%
+X184020000Y-116500000D03*
+%TD*%
+D14*
+%TO.N,+3.3V*%
+%TO.C,J1*%
+X200686783Y-77574599D03*
+D15*
+%TO.N,Net-(J1-Pin_2)*%
+X199000000Y-76500000D03*
+%TO.N,GND*%
+X197313218Y-75425400D03*
+%TD*%
+D12*
+%TO.N,GND*%
+%TO.C,LS1*%
+X187500000Y-95500000D03*
+%TO.N,Net-(U1-PA2)*%
+X181000000Y-95500000D03*
+%TD*%
+%TO.N,Net-(U1-PA7)*%
+%TO.C,R2*%
+X174452888Y-84500000D03*
+%TO.N,Net-(D1-GK)*%
+X170358665Y-78073357D03*
+%TD*%
+%TO.N,Net-(U1-PA6)*%
+%TO.C,R3*%
+X177594223Y-82426643D03*
+%TO.N,Net-(D1-BK)*%
+X173500000Y-76000000D03*
+%TD*%
+%TO.N,Net-(D1-RK)*%
+%TO.C,R1*%
+X167000000Y-80000000D03*
+%TO.N,Net-(U1-PA1)*%
+X171094224Y-86426643D03*
+%TD*%
+D16*
+%TO.N,+3.3V*%
+X193500000Y-83500000D03*
+%TD*%
+M02*
