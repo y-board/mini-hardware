@@ -1,3 +1,7 @@
+# A plug-in creates these files
+production/*.zip
+production/backups
+
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
