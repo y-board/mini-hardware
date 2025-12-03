@@ -10,7 +10,7 @@
 	(title_block
 		(title "Y-Board Micro")
 		(date "2025-09-23")
-		(rev "v1.0")
+		(rev "v1.1")
 		(comment 2 "Author: Philip Lundrigan")
 	)
 	(layers
@@ -8488,7 +8488,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Y-Board Mini\nv1.0\nDesigned by Phil Lundrigan"
+	(gr_text "Y-Board Mini\nv1.1\nDesigned by Phil Lundrigan"
 		(at 198.1 123.518845 0)
 		(layer "B.SilkS")
 		(uuid "f082e246-0d8d-498d-ab33-499a411bb7c4")
