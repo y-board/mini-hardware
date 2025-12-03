@@ -491,18 +491,18 @@
 		(sheetfile "Y-Board-mini.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 0.6785 1.08)
-			(end 0.6785 1.545)
+			(start 0.233492 0.999563)
+			(end 0.233492 1.812931)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8a0f493f-680b-4e64-a29d-9670bcdc9d7e")
+			(uuid "c721ace2-34ae-4c19-9c1b-63544c383589")
 		)
 		(fp_line
-			(start 0.6785 -1.545)
-			(end 0.6785 -1.08)
+			(start 0.233492 -1.813368)
+			(end 0.233492 -1)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -511,9 +511,9 @@
 			(uuid "1fec6e05-cfd0-4fc5-9e2a-8cf18a9bfdf9")
 		)
 		(fp_arc
-			(start 6.026315 1.080827)
-			(mid 3.496956 2.978808)
-			(end 0.6785 1.54483)
+			(start 6.510714 1.268627)
+			(mid 3.541864 3.496394)
+			(end 0.233685 1.813253)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -522,37 +522,26 @@
 			(uuid "7bc2e4d4-fa9a-48c6-afe5-e17084f88df8")
 		)
 		(fp_arc
-			(start 5.492979 1.080429)
-			(mid 3.238262 2.5)
-			(end 0.983816 1.08)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "04efe893-8264-4026-b588-8c8060ea623e")
-		)
-		(fp_arc
-			(start 0.983816 -1.08)
-			(mid 3.238262 -2.5)
-			(end 5.492979 -1.080429)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "aca0a2ff-c81f-4c09-9e50-de1921225065")
-		)
-		(fp_arc
-			(start 0.6785 -1.54483)
-			(mid 3.496956 -2.978809)
-			(end 6.026315 -1.080827)
+			(start 0.233492 -1.81337)
+			(mid 3.541884 -3.496619)
+			(end 6.510924 -1.268709)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
 			(uuid "3f76687c-0110-4a75-9a6d-1d809e65fa19")
+		)
+		(fp_circle
+			(center -1.5 0)
+			(end -1.75 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.SilkS")
+			(uuid "9f2557b2-3794-4ff9-b2ae-a97919166ec5")
 		)
 		(fp_line
 			(start 7.56 3.25)
@@ -8474,7 +8463,7 @@
 		)
 	)
 	(gr_text "LED"
-		(at 163.4 66.2 0)
+		(at 163.4 65.9 0)
 		(layer "F.SilkS")
 		(uuid "d58af42a-425f-4941-8976-4bc5e06ae194")
 		(effects
