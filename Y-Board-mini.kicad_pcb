@@ -1465,7 +1465,7 @@
 		(property "Reference" "Battery"
 			(at 2.992538 0 0)
 			(layer "F.SilkS")
-			(uuid "608fc897-bf38-46a5-8bfc-7792a74b5747")
+			(uuid "9c9ffe29-46e6-4d89-84ec-5abfe679fe8f")
 			(effects
 				(font
 					(size 1 1)
@@ -1477,7 +1477,7 @@
 			(at 1.445 9.365 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c2d5e482-a887-40a6-8870-7861686795f7")
+			(uuid "9a6fa2c2-ebff-4a91-952a-69d96909ed6e")
 			(effects
 				(font
 					(size 1 1)
@@ -1489,7 +1489,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2f52c9fa-e2cf-4088-986f-74b83cbcf713")
+			(uuid "c09efc49-8ac0-453e-8341-8aecf3b5d0d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1501,7 +1501,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c516413a-2f72-42db-bbfb-bb40076a4919")
+			(uuid "c42bc47b-a6a4-4d34-bea5-406b9cec7729")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1589,8 +1589,8 @@
 			(uuid "5a9689ca-9a0f-443f-8aab-11524b31d0e9")
 		)
 		(fp_line
-			(start 12.5 -0.5)
-			(end 12.5 0.5)
+			(start 8 -0.5)
+			(end 8 0.5)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1599,8 +1599,8 @@
 			(uuid "13491486-f4fb-4dff-9003-414d9803e1b3")
 		)
 		(fp_line
-			(start 12 0)
-			(end 13 0)
+			(start 7.5 0)
+			(end 8.5 0)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1691,8 +1691,8 @@
 			(uuid "09facce8-8d01-4bee-917d-503f930cf4aa")
 		)
 		(fp_line
-			(start 12.5 -0.5)
-			(end 12.5 0.5)
+			(start 8 -0.5)
+			(end 8 0.5)
 			(stroke
 				(width 0.127)
 				(type solid)
@@ -1701,8 +1701,8 @@
 			(uuid "d07c6d7a-b957-4bbf-86b3-5c9b3cea24f4")
 		)
 		(fp_line
-			(start 12 0)
-			(end 13 0)
+			(start 7.5 0)
+			(end 8.5 0)
 			(stroke
 				(width 0.127)
 				(type solid)
