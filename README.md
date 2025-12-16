@@ -13,7 +13,7 @@ A compact PCB design featuring an ATTiny202 microcontroller with integrated peri
 | **Battery Holder** | Keystone Electronics 500 | 1        | [Link](https://www.digikey.com/en/products/detail/keystone-electronics/500/151580)                       | Coin cell holder                       |
 | **Capacitor**      | 0.1 µF                   | 1        | -                                                                                                        | Decoupling capacitor                   |
 | **Capacitor**      | 10 µF                    | 1        | -                                                                                                        | Power filtering                        |
-| **Resistor**       | 220 kΩ                   | 3        | -                                                                                                        | Current limiting                       |
+| **Resistor**       | 220 Ω                    | 3        | -                                                                                                        | Current limiting                       |
 
 ## Project Files
 
