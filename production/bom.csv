@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BATTERY,BAT_500,1,Battery Holder,
+C1,C_Disc_D4.7mm_W2.5mm_P5.00mm,1,0.1 µF,
+C2,C_Disc_D4.7mm_W2.5mm_P5.00mm,1,10 µF,
+D2,LED_D5.0mm-4_RGB_Wide_Pins,1,QBL8RGB60D0-2897,
+J1,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_Pin,
+MCU,SOIC-8_3.9x4.9mm_P1.27mm,1,ATtiny202-SS,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,150,
+"R2, R3",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,33,
+SPEAKER,CUI_CEM-1201S,1,CEM-1201S,
+SW,SW_1825910-6-4,1,1825910-6,

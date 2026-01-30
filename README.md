@@ -20,8 +20,9 @@ A compact PCB design featuring an ATTiny202 microcontroller with integrated peri
 ## Project Files
 
 - KiCad schematic and PCB layout files
-- Gerber files for manufacturing
+
 - 3D models for components
-  - A jig for programming the ATTiny202
-  - A jig for making soldering the board easier
-- Production files (BOM, positions, netlist)
+  - A jig for programming the ATTiny202 (jigs/Y-Board-mini Programmer)
+  - A jig for making soldering the board easier (jigs/Y-Board-mini Jig)
+
+- Production files for ordering (in the production folder)

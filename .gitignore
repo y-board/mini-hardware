@@ -1,6 +1,6 @@
 # A plug-in creates these files
-production/*.zip
 production/backups
+
 
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
@@ -42,3 +42,8 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# Allow some specific files in the backups folder
+!production/bom.csv
+!production/positions.csv
+!production/designators.csv
